@@ -5,7 +5,7 @@ Components we require 🪛:
 
 ✔️ Ultrasonic sensors (2 NOS)
 
-✔️ Arduino UNO Board
+✔️ Arduino UNO Boards
 
 
 Now We have Two modes in arduino, 
